@@ -1,0 +1,18 @@
+Elementos iniciales
+[85] [78] [87] 
+Elementos ordenados
+[78] [85] [87] 
+El menor es 78 y se repite : 1 veces
+El mayor es 87 y se repite : 1 veces
+Elementos iniciales
+[62] [13] 
+Elementos ordenados
+[13] [62] 
+El menor es 13 y se repite : 1 veces
+El mayor es 62 y se repite : 1 veces
+Elementos iniciales
+[57] [96] 
+Elementos ordenados
+[57] [96] 
+El menor es 57 y se repite : 1 veces
+El mayor es 96 y se repite : 1 veces

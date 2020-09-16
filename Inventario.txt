@@ -1,0 +1,15 @@
+******* DATOS DEL PROVEEDOR *******
+Código    Nombre    Ciudad      Teléfono
+ABC001     Favorita    Quito      0995644186
+
+
+
+******* DATOS DEL Producto *******
+nombre	precio	cantidad		estado
+zapato		34		5		libre
+
+
+
+Total Productos: 34
+Cantidad de productos adquiridos: 1
+El valor total: 34
