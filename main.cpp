@@ -2,13 +2,13 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
-
+//incluimos las librerias que hemos creado para que funcione 
 #include"ejercicio1.h"
 #include "ejercicio2.h"
 #include"ejercicio3.h"
 using namespace std;
 
-
+//creamos un menu para que el usuario pueda escoger  
 int main() {
   int opcion;
   cout <<"BIENVENIDO AL SISTEMA DE NOGA\n";
